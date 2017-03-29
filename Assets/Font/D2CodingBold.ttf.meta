@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c3d7ae86ac665c044b3ed50839571746
+timeCreated: 1490606235
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: D2Coding
+  fontNames:
+  - D2Coding
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 419ed9d13c50885489663a8a19039dd7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
